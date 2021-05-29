@@ -1,0 +1,12 @@
+{
+  "name": "sublime-flow-lsp-chr-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mwiencek/sublime-flow-lsp-chr-issue.git",
+  "author": "Michael Wiencek <mwtuea@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "flow-bin": "0.152.0"
+  }
+}
