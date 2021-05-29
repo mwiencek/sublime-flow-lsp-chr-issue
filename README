@@ -1,0 +1,8 @@
+Sublime Text (build 4107) LSP breaks Flow if there's a non-ASCII
+character present in the source code. VSCode works fine.
+
+1. Install Flow (sudo npm install -g flow-bin)
+2. Open chr-issue.sublime-project / index.js
+3. If LSP is configured correctly, you'll get a message that flow exited with status 1
+
+See log-panel.txt for the debug output.

@@ -1,0 +1,18 @@
+{
+	"settings":
+	{
+		"LSP":
+		{
+			"flow":
+			{
+				"enabled": true,
+			},
+		},
+	},
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+}
